@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    background-color:white;
+    }
+    
+    .Header{
+    
+        background-color:rgb(109, 109, 253);
+        padding: 10px;
+       
+    }
+
+
+    .topnav{
+
+        overflow: hidden;
+        background-color:rgb(109, 109, 253);
+    }
+    
+    .topnav a{
+    float: left;
+    display: block;
+    color: blueviolet;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+    
+    .topnav a:hover{
+        background-color: cadetblue;
+        color: violet;
+    }
+
+    .coloumn.middle{
+        padding: 10px;
+        height: 900vh;
+        width: 900vb;
+    
+    }
+    .coloumn.middle a{
+        text-align: center;
+    }
+    
+    .footer{
+        background-color: aqua;
+        padding: 10px;
+        text-align: center;
+    }
